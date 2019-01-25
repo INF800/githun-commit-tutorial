@@ -1,0 +1,12 @@
+
+
+ls
+cd targetDir
+git init
+git remote add origin <gitLink>
+git remote -v
+git add .
+git commit -m "firdt commit"
+git push origin master
+
+git help
